@@ -1,0 +1,92 @@
+{
+  "sample_01": {
+    "title": "Assignment Extension Request",
+    "genre": "Student Email / Forum",
+    "target_typos": ["Their -> There", "tonite -> tonight"],
+    "wsd_terms": [],
+    "coref_targets": ["Alex -> he -> his", "code -> it"],
+    "connectives": ["However", "but"],
+    "indirect_request": "Could you please grant me an extension on the assignment?"
+  },
+  "sample_02": {
+    "title": "Essay Draft Consultation",
+    "genre": "Student Email",
+    "target_typos": ["recieved -> received"],
+    "wsd_terms": ["bank (river bank ecosystem)"],
+    "coref_targets": ["essay -> It"],
+    "connectives": ["but", "Therefore"],
+    "indirect_request": "Can you please review the draft before Thursday?"
+  },
+  "sample_03": {
+    "title": "Sports Biology Inquiry",
+    "genre": "Discussion Forum",
+    "target_typos": [],
+    "wsd_terms": ["bat (baseball bat)", "light (illumination in stadium)"],
+    "coref_targets": ["Sarah -> She -> her"],
+    "connectives": ["Because"],
+    "indirect_request": "Would you mind checking the batting stats?"
+  },
+  "sample_04": {
+    "title": "Botanical Experiment Log",
+    "genre": "Assignment Draft",
+    "target_typos": ["appropiate -> appropriate"],
+    "wsd_terms": ["plant (research plant / facility)", "plant (green plant specimens)"],
+    "coref_targets": ["Maria -> She", "specimens -> them"],
+    "connectives": ["Although"],
+    "indirect_request": "Could you verify if the temperature was appropiate?"
+  },
+  "sample_05": {
+    "title": "Group Project Bug Report",
+    "genre": "Chat / Forum Post",
+    "target_typos": ["unusal -> unusual"],
+    "wsd_terms": [],
+    "coref_targets": ["David -> He -> he"],
+    "connectives": ["but", "Furthermore"],
+    "indirect_request": "Can we meet at 5 PM to resolve this?"
+  },
+  "sample_06": {
+    "title": "Astronomy Research Note",
+    "genre": "Student Blog",
+    "target_typos": [],
+    "wsd_terms": ["star (bright celestial star)"],
+    "coref_targets": ["astronomer -> her -> She", "telescope -> it"],
+    "connectives": ["because", "Meanwhile"],
+    "indirect_request": "Would you please verify the celestial coordinates?"
+  },
+  "sample_07": {
+    "title": "Peer Review on Economics",
+    "genre": "Peer Review Feedback",
+    "target_typos": ["mispelled -> misspelled"],
+    "wsd_terms": ["bank (financial bank crisis)"],
+    "coref_targets": [],
+    "connectives": ["however", "In addition"],
+    "indirect_request": "Could you provide more citations for the government regulations?"
+  },
+  "sample_08": {
+    "title": "Lab Report Solar Energy",
+    "genre": "Submission Note",
+    "target_typos": ["recieved -> received"],
+    "wsd_terms": [],
+    "coref_targets": ["Kevin -> he"],
+    "connectives": ["and then", "Nevertheless"],
+    "indirect_request": "Can you check if our submission was recieved properly?"
+  },
+  "sample_09": {
+    "title": "Hackathon Prototype Update",
+    "genre": "Team Update",
+    "target_typos": [],
+    "wsd_terms": [],
+    "coref_targets": ["judges -> They -> they"],
+    "connectives": ["but", "Consequently"],
+    "indirect_request": "Would you mind testing the application on your machine?"
+  },
+  "sample_10": {
+    "title": "Library Research Query",
+    "genre": "Inquiry Email",
+    "target_typos": [],
+    "wsd_terms": [],
+    "coref_targets": ["archivist -> she", "book -> its"],
+    "connectives": ["Moreover"],
+    "indirect_request": "Could you reserve two tickets for my study group?"
+  }
+}
