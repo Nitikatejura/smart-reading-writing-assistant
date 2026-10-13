@@ -1,5 +1,9 @@
 # Smart Reading & Writing Assistant (Classic NLP Pipeline)
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Nitikatejura/smart-reading-writing-assistant)
+
+**Public Repository URL:** https://github.com/Nitikatejura/smart-reading-writing-assistant
+
 A modular, end-to-end Classical Natural Language Processing pipeline that takes messy, raw paragraphs of student-submitted text (forum posts, emails, assignment answers) and processes them through five foundational computational linguistics stages.
 
 ---
